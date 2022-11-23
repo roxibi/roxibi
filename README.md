@@ -1,4 +1,9 @@
-### Hello, World! 👋
+### Hello, Tech World! 👋
+I’m Roxana.
+
+- 🌱 I’m currently learning Full Stack Web Development with a focus on Front End. 
+- 👯 I’m looking to collaborate on any projects that make the world more sustainable or more equittable. 
+- ⚡ Fun fact: I make collage art. You can find my work on my IG profile. 
 
 ### 🌐 Socials:
 
