@@ -18,7 +18,8 @@ I’m Roxana.
 
 [![Roxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=roxibi&count_private=true&show_icons=true&theme=react&include_all_commits=true)](https://github.com/roxibi/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roxibi&layout=compact)](https://github.com/roxibi/github-readme-stats&theme=react)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roxibi&layout=compact&theme=react)](https://github.com/roxibi/github-readme-stats&theme=react)
+[![Roxi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=roxibi&theme=react)](https://github.com/roxibi/github-readme-stats)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
