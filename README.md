@@ -16,7 +16,7 @@ I’m Roxana.
 
 [![HTML][HTML]][HTML-url] [![CSS][CSS]][CSS-url] [![Javascript][Javascript]][Javascript-url] [![React][React.js]][React-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![Node][Node]][Node-url] [![Express][Express]][Express-url] [![SQL][SQL]][SQL-url] [![POSTGRES][Postgres]][Postgres-url] [![MongoDB][MongoDB]][MongoDB-url]
 
-[![Roxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=roxibi)](https://github.com/roxibi/github-readme-stats)
+[![Roxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=roxibi&count_private=true)](https://github.com/roxibi/github-readme-stats)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
