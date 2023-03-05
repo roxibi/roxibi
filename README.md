@@ -1,8 +1,10 @@
 ### Hello, Tech World! 👋
-I’m Roxana.
+I’m Roxana. Fullstack Web developer with a passion for projects that make the works a better place. 
 
-- 🌱 I’m currently learning Full Stack Web Development with a focus on Front End. 
-- 👯 I’m looking to collaborate on any projects that make the world more sustainable or more equittable. 
+[My Portfolio](www.roxana-bita-webdev.netlify.app)
+
+- 🌱 My focus lies on frontend but I build backends too. 
+- 👯 Hit me up if you want to collaborate on projects!
 - ⚡ Fun fact: I make collage art. You can find my work on my IG profile. 
 
 ### 🌐 Socials:
