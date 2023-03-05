@@ -1,7 +1,7 @@
 ### Hello, Tech World! 👋
-I’m Roxana. Fullstack Web developer with a passion for projects that make the works a better place. 
+I’m Roxana - Fullstack Web developer with a passion for projects that make the world a better place. 
 
-[My Portfolio](www.roxana-bita-webdev.netlify.app)
+[My Portfolio]([www.roxana-bita-webdev.netlify.app](https://roxana-bita-webdev.netlify.app/))
 
 - 🌱 My focus lies on frontend but I build backends too. 
 - 👯 Hit me up if you want to collaborate on projects!
